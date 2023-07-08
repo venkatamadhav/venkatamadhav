@@ -29,5 +29,7 @@ These are the tools and languages that I have worked with and have experience ab
 # Venkata Madhav GitHub status: 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=venkatamadhav&show_icons=true&theme=radical" alt="Venkata Madhav" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=venkatamadhav&theme=dark"/></a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatamadhav&show_icons=true&theme=radical" alt="Venkata Madhav" />
+
 
